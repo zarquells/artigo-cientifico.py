@@ -5,6 +5,8 @@
 ### **Resumo**
 
 O Produto Interno Bruto (PIB) é um indicador de crescimento econômico composto por atividades produtivas, sendo empregado para entender as potências de um país como uma economia emergente ou melhor o índice de desenvolvimento humano em comparação ao resto do mundo. O Brasil é um país com uma forte desindustrialização que acaba não alavancando profissionais necessários no mundo como um todo, que alterariam significativamente o PIB se houvesse incentivo nacional para estes estudos. Este estudo tem como objetivo analisar e responder a hipóteses relacionadas à correlação entre educação, força de trabalho e o PIB do Brasil, tendo como foco o nível educacional brasileiro, para compreender o impacto de uma população qualificada sobre a economia. Para este projeto, foi utilizado o banco de dados público com levantamentos dos anos 2000 à 2024 no World Bank Data, Instituto Brasileiro de Geografia e Estatística (IBGE) e Organização das Nações Unidas (ONU). Serão analisadas as causas da ausência de incentivo nacional para que profissionais em áreas como tecnologia, ciência e inovação possam alavancar a indústria nacional e entender a ausência deste impacto de forma direta, ou indireta, no PIB nacional.
+<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/d43dee48-a861-486d-bae6-660ea1140383" />
+
 
 ---
 ### **Passo a passo**
@@ -24,11 +26,11 @@ Na lógica de mercado, o PIB positivo demonstra o investimento interno para qual
 
 ### **Requisitos para execução**
 
-Linguagem utilizada
+#### **Linguagem utilizada**
 
 Python 3.13.0
 
-Bibliotecas necessárias
+#### **Bibliotecas necessárias**
 
 Pandas (pandas-2.3.2)
 Numpy (numpy-2.1.2)
